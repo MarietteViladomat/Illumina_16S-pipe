@@ -1,6 +1,6 @@
 # Illumina 16S ASVs Microbiome Analysis pipeline
 ### This is the latest backup for Midgut - FTA comparisson analysis (August 2024)
-From raw reads (paired end Illumina amplicon) to microbiome analysis, including the following publication plots:
+From raw reads (obtained through paired end Illumina amplicon sequencing) to microbiome analysis, including the following publication plots:
    - Rarefaction Curves
    - Alpha diversity (Observed, Shannon, Simpson, Pielou) and boxplots with paired wised Wilcoxon test (Benjamini Hochberg p-value adjustment)
    - Beta diversity (Bray-Curtis dissimilarity distance) and NMDS (stress score) and PCoA (Beta disperssion and PERMANOVA)
