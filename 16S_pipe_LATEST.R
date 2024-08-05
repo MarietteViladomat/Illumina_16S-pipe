@@ -27,7 +27,7 @@
 # g) Generating new normalized phyloseq object (ps_norm_deseq) or (ps_norm_tmm)
 # h) Statistical analysis and figure making of (using vegan):
       # Rarefaction curves
-      # Alpha Diversity (Observed, Shannon, Simpson, Pielou) and boxplots (Willcoxon with Benjamini Huchberg p-value correction)
+      # Alpha Diversity (Observed, Shannon, Simpson, Pielou) and boxplots (Willcoxon with Benjamini Hochberg p-value correction)
       # Beta Diversity (Bray-Curtis distance) and NMDS (stress score) and PCoA (beta dispertion and PERMANOVA) plots
       # Bar Plots that include de LCBD value (beta: grouping influence of each sample)
       # Differential Abundance Plot
