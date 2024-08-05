@@ -1,4 +1,4 @@
-# Illumina_16S-pipe
+# Illumina 16S ASVs Microbiome Analysis pipeline
 ### This is the latest backup for Midgut - FTA comparisson analysis (August 2024)
 From raw reads (paired end Illumina amplicon) to microbiome analysis, including the following publication plots:
    - Rarefaction Curves
